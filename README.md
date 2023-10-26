@@ -143,12 +143,3 @@ Since its launch, Akhrajaaat has empowered users to take control of their financ
 
 Technologies:
 React JS, Firebase, Animate.css, 
-
-
-
-
-EXTRA:
-
-
-
-
